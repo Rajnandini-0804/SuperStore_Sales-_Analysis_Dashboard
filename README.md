@@ -31,3 +31,19 @@ AvgDeliveryDays = DATEDIFF(
     'SuperStore_Sales_Dataset'[Ship Date],
     DAY
 )
+🏁 Project Goal
+
+The main objective of this dashboard is to help businesses:
+
+Identify profit-driving categories
+
+Monitor regional performance
+
+Reduce shipping delays
+
+Improve sales strategies using data insights
+
+👩‍💻 Author
+
+Rajnandini Bhosale
+Data Analytics Enthusiast | Power BI Learner
